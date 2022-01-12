@@ -3,9 +3,9 @@
 - 🌱 I’m new to coding
 - 💞️ I’m looking to collaborate on blockchain growth and development in Africa 
 - 📫 How to reach me via alagbe003@hotmail.com 
-- eth wallet address is 0xe1972F49D2cF551969e0840165eA0C662538A1c4
+- eth wallet address is 0x574e87f839B56111046ec102B0a95A7Ec43eD932
 - 
-    "address": "0xe1972F49D2cF551969e0840165eA0C662538A1c4",
+    "address": "0x574e87f839B56111046ec102B0a95A7Ec43eD932",
     
     
 
