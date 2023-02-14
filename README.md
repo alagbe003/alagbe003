@@ -2,7 +2,7 @@
 - 👀 I’m interested in meeting developers all around the world 
 - 🌱 I’m new to coding
 - 💞️ I’m looking to collaborate on blockchain growth and development in Africa 
-- 📫 How to reach me via alagbe003@hotmail.com 
+- 📫 reach me via alagbe003@hotmail.com 
 - eth wallet address is alagbe003.eth
 - 
     "address": "alagbe003.eth",
