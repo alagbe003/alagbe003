@@ -33,9 +33,9 @@ A robust CLI tool for managing personal wealth, tracking expenses, and analyzing
 - **Impact**: Empowers users with financial literacy and data-driven budgeting.
 
 #### 🔗 [Stablecoin Protocol (USDSK)](https://github.com/alagbe003/stablecoin-protocol)
-A professional-grade, fiat-pegged stablecoin implementation (USDSK) built on Ethereum, inspired by USDC.
-- **Tech**: Solidity, OpenZeppelin, ERC20, EIP-2612
-- **Impact**: Demonstrates expertise in DeFi architecture and smart contract security.
+A professional-grade stablecoin built on **Scroll (zkEVM)**, designed for seamless, low-cost asset transfers across continents.
+- **Tech**: Solidity, Scroll zkEVM, OpenZeppelin, ERC20
+- **Impact**: Solves global remittance challenges by leveraging Layer 2 scalability and security.
 
 ---
 
