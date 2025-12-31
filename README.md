@@ -48,7 +48,7 @@ A professional-grade stablecoin built on **Scroll (zkEVM)**, designed for seamle
 
 ### 🤝 Connect with Me
 
-- **Twitter**: [@alagbesimon](https://twitter.com/alagbesimon)
+- **Twitter**: [@alagbe003](https://twitter.com/alagbe003)
 - **Ethereum**: `alagbe003.eth`
 - **Location**: United Kingdom 🇬🇧
 
